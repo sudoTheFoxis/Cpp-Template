@@ -1,2 +1,2 @@
 # Cpp-CMake-Template
-just a template ro start cpp project right avay
+just a template to start cpp project right away
